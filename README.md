@@ -19,3 +19,10 @@ Neste projeto, implementei testes utilizando o **Jest** para verificar se uma sÃ
 
 ---
 
+## Quer testar o projeto?
+
+- Baixe o projeto: git clone;
+
+- Instale as dependÃªncias: npm install;
+
+- Rode os testes escrevendo no terminal: npm test nome-arquivo.test
